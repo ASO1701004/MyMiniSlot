@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyMiniSlot</string>
+    <string name="btn_start">START</string>
 </resources>
